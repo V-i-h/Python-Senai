@@ -1,4 +1,5 @@
-'''
+
+#--------Aula 02 ----------
 print("Hello World")
 nome = "gomes"
 print(nome)
@@ -43,14 +44,3 @@ print(nome,type(nome))
 print(idade,type(idade))
 print(peso,type(peso))
 print(altura,type(altura))
-'''
-
-
-#------------------------------------REVISÃO--------------
-nome  = 'Karython'
-valor = 15 
-valor = str(valor)
-
-print(valor)
-
-
